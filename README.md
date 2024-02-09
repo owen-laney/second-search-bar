@@ -4,10 +4,10 @@ You can modify `manifest.json` to change the search engine used\
 ![logo](assets/icons/ssb-icon-96.png)
 
 ## Installation
-### Install Online (recommended)
+### Install from Mozilla Addons
 [🛍️ Firefox addons](https://addons.mozilla.org/en-US/firefox/addon/secondsearchbar/)
-### Install Manually (for debugging)
-1. Download second-search-bar through github
+### Install Manually
+1. Clone this repo or download as a zip
 2. Visit [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
 3. Click on `Load Temporary Add-on...`
 4. Navigate to the project directory
